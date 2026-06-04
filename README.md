@@ -1,4 +1,4 @@
-# NeetCode Blind 150 Solutions
+# NeetCode Blind 250 Solutions
 
 A structured collection of solutions for the famous NeetCode Blind 150 problems.  
 Built for improving Data Structures & Algorithms skills, interview preparation, and consistency in problem solving. Because apparently suffering through sliding windows and binary trees is how humans prove employability now.
